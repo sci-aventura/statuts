@@ -5,4 +5,4 @@ Le fichier statuts.txt fait fois.
 
 autre [SCI AVENTURA](https://annuaire-entreprises.data.gouv.fr/rechercher?terme=SCI%20AVENTURA&page=2)
 
-bye Sci. Aventura
+bye SCI Aventura
